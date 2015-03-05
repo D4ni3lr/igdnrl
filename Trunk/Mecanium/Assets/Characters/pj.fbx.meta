@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 42b98964e3133f14c99ead92e861ff84
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Armature.001|B1
+    100004: Armature.001|B2
+    100006: Armature.001|B3
+    100008: Armature.001|Head
+    100010: Armature.001|LM1
+    100012: Armature.001|LM2
+    100014: Armature.001|LM3
+    100016: Armature.001|LP1
+    100018: Armature.001|LP2
+    100020: Armature.001|LP3
+    100022: Armature.001|RM1
+    100024: Armature.001|RM2
+    100026: Armature.001|RM3
+    100028: Armature.001|RP1
+    100030: Armature.001|RP2
+    100032: Armature.001|RP3
+    100034: //RootNode
+    100036: PLAYER
+    400000: Armature.001
+    400002: Armature.001|B1
+    400004: Armature.001|B2
+    400006: Armature.001|B3
+    400008: Armature.001|Head
+    400010: Armature.001|LM1
+    400012: Armature.001|LM2
+    400014: Armature.001|LM3
+    400016: Armature.001|LP1
+    400018: Armature.001|LP2
+    400020: Armature.001|LP3
+    400022: Armature.001|RM1
+    400024: Armature.001|RM2
+    400026: Armature.001|RM3
+    400028: Armature.001|RP1
+    400030: Armature.001|RP2
+    400032: Armature.001|RP3
+    400034: //RootNode
+    400036: PLAYER
+    4300000: PLAYER
+    9500000: //RootNode
+    13700000: PLAYER
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Armature.001|B1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LP1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RP1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LP2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RP2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LP3
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RP3
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|B2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|B3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LM1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RM1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LM2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|LM3
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RM2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature.001|RM3
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: pj(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|B1
+      position: {x: -0, y: 0, z: .511199951}
+      rotation: {x: .707106888, y: -4.2146862e-08, z: -4.21468549e-08, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|B2
+      position: {x: -0, y: .115278281, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|B3
+      position: {x: -0, y: .114875562, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|Head
+      position: {x: -0, y: .10057579, z: 0}
+      rotation: {x: 0, y: 5.96046448e-08, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|LM1
+      position: {x: -0, y: .10057579, z: 0}
+      rotation: {x: .500207841, y: -.499792069, z: -.500207841, w: -.499792069}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Armature.001|LM2
+      position: {x: -5.91171534e-14, y: .182123214, z: -8.38451808e-11}
+      rotation: {x: .000569542346, y: -2.97479374e-07, z: -2.25815413e-07, w: .999999881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|LM3
+      position: {x: 2.95585767e-14, y: .164227292, z: -1.05798152e-08}
+      rotation: {x: -.000615451601, y: -6.85167895e-11, z: 2.70447941e-07, w: .999999821}
+      scale: {x: 1, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Armature.001|RM1
+      position: {x: -0, y: .10057579, z: 0}
+      rotation: {x: .500207841, y: .499792069, z: .500207841, w: -.499792069}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Armature.001|RM2
+      position: {x: 1.81898936e-14, y: .182123214, z: -7.45319501e-11}
+      rotation: {x: .000569542346, y: 2.90849641e-07, z: 2.25812826e-07, w: .999999881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|RM3
+      position: {x: 4.54747341e-15, y: .164227292, z: -1.05611884e-08}
+      rotation: {x: -.000615451601, y: 1.26665553e-10, z: -2.70468917e-07, w: .999999821}
+      scale: {x: 1, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Armature.001|LP1
+      position: {x: -.0290260222, y: -.0689368024, z: 3.46017148e-09}
+      rotation: {x: -.600717545, y: .103413612, z: .781252742, w: .134492531}
+      scale: {x: 1.00000072, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Armature.001|LP2
+      position: {x: 4.54825927e-10, y: .229183286, z: -9.97450922e-09}
+      rotation: {x: -.00907714292, y: -3.30593011e-08, z: .00241278135, w: .999955893}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|LP3
+      position: {x: 2.83599388e-09, y: .146788374, z: -7.53832441e-10}
+      rotation: {x: .0268688835, y: -4.42855281e-08, z: -.00714202784, w: .999613464}
+      scale: {x: .999999821, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Armature.001|RP1
+      position: {x: .0205600951, y: -.0610755906, z: -6.07687634e-09}
+      rotation: {x: .69685626, y: .119964056, z: .69685626, w: -.119964056}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|RP2
+      position: {x: -0, y: .229183376, z: 1.90735125e-08}
+      rotation: {x: .00825581513, y: 7.62107959e-08, z: 2.72914438e-08, w: .999965906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature.001|RP3
+      position: {x: 4.54747341e-15, y: .15702346, z: 1.66893486e-08}
+      rotation: {x: .0101569016, y: -5.97882206e-08, z: 3.74395093e-08, w: .999948442}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: PLAYER
+      position: {x: -1.90734859e-08, y: -1.27897687e-15, z: -3.81469718e-08}
+      rotation: {x: 1.23410073e-08, y: .173648268, z: 5.84816213e-08, w: .98480773}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
